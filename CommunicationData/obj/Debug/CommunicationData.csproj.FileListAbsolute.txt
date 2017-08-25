@@ -1,0 +1,5 @@
+E:\project\PachinkoServer\PachinkoServer\CommunicationData\bin\Debug\CommunicationData.dll
+E:\project\PachinkoServer\PachinkoServer\CommunicationData\bin\Debug\CommunicationData.pdb
+E:\project\PachinkoServer\PachinkoServer\CommunicationData\obj\Debug\CommunicationData.csprojResolveAssemblyReference.cache
+E:\project\PachinkoServer\PachinkoServer\CommunicationData\obj\Debug\CommunicationData.dll
+E:\project\PachinkoServer\PachinkoServer\CommunicationData\obj\Debug\CommunicationData.pdb

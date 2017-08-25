@@ -1,0 +1,8 @@
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\bin\Debug\PachinkoServer.exe
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\bin\Debug\PachinkoServer.pdb
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\bin\Debug\CommunicationData.dll
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\bin\Debug\LitJson.dll
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\bin\Debug\CommunicationData.pdb
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\obj\Debug\PachinkoServer.csprojResolveAssemblyReference.cache
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\obj\Debug\PachinkoServer.exe
+E:\project\PachinkoServer\PachinkoServer\PachinkoServer\obj\Debug\PachinkoServer.pdb
